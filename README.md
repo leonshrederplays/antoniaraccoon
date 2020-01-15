@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Antonia Raccoon
 
 ## Für Sirion/Bluestripe
@@ -56,3 +57,6 @@ Bsp: !clear Fünf (Löscht Fünf Nachrichten.).
 #### Help
 * Der Befehl "!help" zeigt dir die Hilfe für alle Commands in einer DM an.
   * Wenn man hinter dem Befehl noch einen Parameter in Form einer der Gruppen angibt dann werden die Befehle herausgefiltert die nicht in der Gruppe sind.
+=======
+# antoniaraccoon
+>>>>>>> 6e5fa79852661ea8d80673a57cbed764c023ee78
