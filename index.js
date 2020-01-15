@@ -9,12 +9,12 @@ const bot     = new Discord.Client();
 const fs      = require("fs");
 const moment = require("moment");
 
-//JSON Dateien.
+//khujhJSON Dateien.
 
 let userData  = JSON.parse(fs.readFileSync("Storage/userData.json", 'utf8'));
 let commands = JSON.parse(fs.readFileSync("Storage/commands.json", 'utf8'));
 
-//Listener Event: Message Receive.
+//jhListener Event: Message Receive.
 
 bot.on('message', message => {
 
