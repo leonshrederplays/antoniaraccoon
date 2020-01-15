@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Antonia Raccoon
 
 ## Für Sirion/Bluestripe
@@ -59,4 +58,3 @@ Bsp: !clear Fünf (Löscht Fünf Nachrichten.).
   * Wenn man hinter dem Befehl noch einen Parameter in Form einer der Gruppen angibt dann werden die Befehle herausgefiltert die nicht in der Gruppe sind.
 =======
 # antoniaraccoon
->>>>>>> 6e5fa79852661ea8d80673a57cbed764c023ee78
