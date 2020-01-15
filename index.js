@@ -37,7 +37,7 @@ bot.on('message', message => {
     //if (!userData[sender.username]) userData[sender.username] = {} //Das macht eine JSON Datei für die User + Guild.
     //if (!userData[sender.username].money) userData[sender.username].money = 1000; //Das erstellt ein Geld Objekt für einen User, wenns dieser keine hat hat er 1000 Kekse.
     //if (!userData[sender.username].lastDaily) userData[sender.username].lastDaily = "Not Collected";
-    //if (!userData[sender.username].username) userData[sender.username].username = message.author.username;
+    //if haöll  o (!userData[sender.username].username) userData[sender.username].username = message.author.username;
 
 
     //if (!userData[sender.id + message.guild.id]) userData[sender.id + message.guild.id] = {} //Das macht eine JSON Datei für die User + Guild.
