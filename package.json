@@ -1,0 +1,19 @@
+{
+  "name": "antonia3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js debug",
+    "start": "node index.js"
+  },
+  "author": "Leon|ShrederPlays",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "bufferutil": "^4.0.1",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "erlpack": "github:hammerandchisel/erlpack"
+  }
+}

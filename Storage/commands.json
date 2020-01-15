@@ -1,0 +1,38 @@
+{
+ "Help": {
+    "name":"Bedienungsanleitung",
+    "group":"User",
+    "desc":"Zeigt dir diese Liste hier an.",
+    "usage":"help <group ODER command>"
+  },
+  "Ping": {
+    "name":"Ping",
+    "group":"User",
+    "desc":"Antwortet mit Ping!",
+    "usage":"ping"
+  },
+  "Clear": {
+    "name":"Clear",
+    "group":"Admin",
+    "desc":"Löscht Nachrichten.",
+    "usage":"clear <Zahl>"
+  },
+  "Kekse": {
+    "name":"Kekse",
+    "group":"User",
+    "desc":"Zeigt dir deinen Kontostand an.",
+    "usage":"kekse"
+  },
+  "Daily": {
+    "name":"Daily",
+    "group":"User",
+    "desc":"Gibt dir einmal pro Tag 1500 Kekse.",
+    "usage":"daily"
+  },
+  "Rank": {
+    "name":"Rank",
+    "group":"User",
+    "desc":"Zeigt dir an wieviele Konten es gibt, wieviele Kekse auf dem Server insgesammt existieren und wer der reicheste User auf dem Server ist.",
+    "usage":"rank"
+  }
+}
